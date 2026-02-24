@@ -7,6 +7,7 @@
 import tensorflow as tf
 from tensorflow.keras.applications.resnet_v2 import preprocess_input
 from roboflow import Roboflow
+from dotenv import load_dotenv
 import cv2
 import numpy as np
 import os
@@ -93,8 +94,9 @@ def select_camera(camera_indices):
 
 # --- 步驟二：主程式邏輯 ---
 
+load_dotenv()
 # 1. 參數設定 (與之前相同)
-ROBOFLOW_API_KEY = "UCLBeCClmaD7BW6BWuLG"
+ROBOFLOW_API_KEY = os.getenv('ROBOFLOW_API_KEY')
 PROJECT_ID = "potato-detection-3et6q"
 MODEL_VERSION = 11
 CLASSIFIER_MODEL_PATH = resource_path('best_potato_model.keras') 
