@@ -12,10 +12,10 @@ Python 3.9 , TensorFlow 2.10 , OpenCV, NumPy, Roboflow, Ngrok API, Line Bot
 4. 透過 Ngrok 將訓練好的模型部署 Web 服務，並串接 Line Bot API，做出使用者可上傳圖片即時辨識的聊天機器人。
 
 
-
-![image](./media/potato-1.png)
-
 ![image](./media/potato_LineBot.jpg)
+[![LintBot video](http://img.youtube.com/vi/8dAi5WxJ3yQ/0.jpg)](https://www.youtube.com/watch?v=8dAi5WxJ3yQ)
+![image](./media/potato-1.png)
+[![Webcam video](http://img.youtube.com/vi/uswiX4Atu04/0.jpg)](https://www.youtube.com/watch?v=uswiX4Atu04)
 
 ### 專案目錄結構
 
