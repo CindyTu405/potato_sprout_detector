@@ -13,9 +13,13 @@ Python 3.9 , TensorFlow 2.10 , OpenCV, NumPy, Roboflow, Ngrok API, Line Bot
 
 
 ![image](./media/potato_LineBot.jpg)
-[![LintBot video](http://img.youtube.com/vi/8dAi5WxJ3yQ/0.jpg)](https://www.youtube.com/watch?v=8dAi5WxJ3yQ)
+
+https://github.com/user-attachments/assets/c71aa8ab-7091-456c-86cf-259429e0426f
+
 ![image](./media/potato-1.png)
-[![Webcam video](http://img.youtube.com/vi/uswiX4Atu04/0.jpg)](https://www.youtube.com/watch?v=uswiX4Atu04)
+
+https://github.com/user-attachments/assets/27888aca-049c-419f-a0c2-52f18ecf06f7
+
 
 ### 專案目錄結構
 
